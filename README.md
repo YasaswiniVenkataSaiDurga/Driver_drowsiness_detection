@@ -24,4 +24,6 @@ Drowsiness during driving leads to severe road accidents worldwide. Detecting an
 ### 🔗 Pre-requisites
 - Python 3.7+
 - Webcam
-- shape_predictor_68_face_landmarks.dat file (Download from [dlib model page](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+- The shape_predictor_68_face_landmarks.dat file, required for this project, is too large to be hosted directly on GitHub. Please download it from the following link and place it in the data/ directory of this repository:
+
+[Download shape_predictor_68_face_landmarks.dat (Google Drive)]([YOUR_DOWNLOAD_LINK_HERE](https://drive.google.com/drive/folders/1DcgB-4yZZ84vN2SKCTHCno_OCMA3EaQj?usp=drive_link))
